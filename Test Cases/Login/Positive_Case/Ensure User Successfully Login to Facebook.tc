@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Ensure User Successfully Login to Facebook</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>eb52ff37-aea2-4cbe-9ad6-908328343078</testCaseGuid>
+</TestCaseEntity>
